@@ -21,7 +21,8 @@ class Units_test(unittest.TestCase):
     """
     Test cases for the units.py module.
     
-    Units as in physical units and not in unit tests.
+    Units as in physical units and not in unit tests. Although, this class is
+    ironically a unit test for a module on physical units. I could not help it.
     """
         
     def test_Units_01(self):
